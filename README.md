@@ -1,2 +1,2 @@
 # test2
-test2 
+this repository is for git study. 
